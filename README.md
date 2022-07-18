@@ -1,4 +1,4 @@
-# Module React
+# Module : React
 
 `Jour 6`
 
