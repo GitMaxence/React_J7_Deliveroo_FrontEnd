@@ -26,5 +26,7 @@ Demo: [![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=flat&
 ### Resultat attendu
 
 <a href="https://lereacteur-react-deliveroo.netlify.com/" target="_blank">
-<img align="right" height="490em" src="./src/img/Screenshot_2019-07-31_at_14.59.20_opnwhd.png"/>
+<img align="center" height="490em" src="./src/img/Screenshot_2019-07-31_at_14.59.20_opnwhd.png"/>
 </a>
+
+[![LeReacteur](https://img.shields.io/badge/Make_with_Le_Reacteur.io-5C47D3?style=flat&logo=React&logoColor=white)](https://github.com/lereacteur)
