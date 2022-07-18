@@ -8,11 +8,7 @@
 
 My React App : [![Netlify Status](https://api.netlify.com/api/v1/badges/442c11d2-e86f-4974-b2ac-c08e8b233569/deploy-status)](https://app.netlify.com/sites/react-j7-deliveroo-frontend/deploys)
 
-My BackEnd :
-
-[![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white)](https://react-j6-deliveroo-backend.netlify.app/?app=heroku-badge)
-
-[![Heroku](https://react-j6-deliveroo-backend.netlify.app/?app=heroku-badge)]
+My BackEnd : [![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white)](https://react-j6-deliveroo-backend.herokuapp.com/?app=heroku-badge)
 
 Demo: [![Netlify Status](https://api.netlify.com/api/v1/badges/442c11d2-e86f-4974-b2ac-c08e8b233569/deploy-status)](https://lereacteur-react-deliveroo.netlify.com/deploys)
 
